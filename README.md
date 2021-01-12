@@ -1,2 +1,15 @@
-# Group_4--Daftar_Hadir_Truck
-ini adalah program untuk mendaftarkan kehadiran truck ke perusahaan
+# Group 4 Daftar Hadir Truck
+
+Nama Kelompok :
+ 1. Bagus
+ 2. Ajeng
+
+
+    npm install
+
+> ini dikususkan untuk PBO
+
+| Nama | Nim | Kelas |
+|--|--|--|
+| Bagus | 18104005 | SE-A|
+
